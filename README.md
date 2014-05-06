@@ -1,5 +1,5 @@
-Full Frontal Belfast
-====================
+Stack Belfast
+=============
 
 Full frontal is an informal monthly meet-up of designers and front-end developers in Belfast.
 
